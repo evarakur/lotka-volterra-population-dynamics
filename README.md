@@ -23,7 +23,7 @@ where $x$ and $y$ are prey and predator populations, respectively; $\alpha$ is t
 The nonzero equilibrium is
 
 $$
-x^*=\frac{\gamma}{\delta},\qquad y^*=\frac{\alpha}{\beta}.
+x^* = \frac{\gamma}{\delta},\qquad y^* = \frac{\alpha}{\beta}
 $$
 
 The baseline parameter values are $\alpha=0.4$, $\beta=0.02$, $\gamma=0.5$, and $\delta=0.01$, giving an equilibrium of **50 prey and 20 predators**. The initial simulated populations are 60 prey and 25 predators.
